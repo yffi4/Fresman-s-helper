@@ -1,0 +1,14 @@
+INSERT INTO universities (name, address) VALUES ('University of Queensland', 'Brisbane, Australia');
+INSERT INTO universities (name, address) VALUES ('University of Western Australia', 'Perth, Australia');
+INSERT INTO universities (name, address) VALUES ('University of Alberta', 'Edmonton, Canada');
+INSERT INTO universities (name, address) VALUES ('McGill University', 'Montreal, Canada');
+INSERT INTO universities (name, address) VALUES ('University of Waterloo', 'Waterloo, Canada');
+INSERT INTO universities (name, address) VALUES ('University of Auckland', 'Auckland, New Zealand');
+INSERT INTO universities (name, address) VALUES ('University of Otago', 'Dunedin, New Zealand');
+INSERT INTO universities (name, address) VALUES ('University of the Witwatersrand', 'Johannesburg, South Africa');
+INSERT INTO universities (name, address) VALUES ('University of Stellenbosch', 'Stellenbosch, South Africa');
+INSERT INTO universities (name, address) VALUES ('University of Ghana', 'Accra, Ghana');
+INSERT INTO universities (name, address) VALUES ('University of the Philippines', 'Quezon City, Philippines');
+INSERT INTO universities (name, address) VALUES ('University of Indonesia', 'Depok, Indonesia');
+INSERT INTO universities (name, address) VALUES ('University of Malaya', 'Kuala Lumpur, Malaysia');
+INSERT INTO universities (name, address) VALUES ('Chulalongkorn University', 'Bangkok, Thailand');
